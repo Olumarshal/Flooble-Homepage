@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+svg {
+  max-width: 100%;  
+}
+
+nav,
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #707793;
+}
+
+.pix {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.grid {
+    width: 35px;
+    height: 35px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    transition-duration: 0.25s;
+}
+
+a:hover {
+    color: rgb(180, 180, 180);
+}
+
+.content-section {
+    max
+}
